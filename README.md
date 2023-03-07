@@ -1,22 +1,22 @@
 # batteryalgo
 CETF is a hedge fund trading in clean energy (cet.fund).
-Aim is to develop an automated algorithm for the optimal operation of a battery.
-Optimal operation means maximisation of profits over a 12-month period.
-Trading will comprise energy-only trading (i.e., the difference between energy prices incurred when charging versus prices earned when discharging).
-Algo does not need to be generalised. It can switch between different regimes (e.e., peak/off-peak, night/day, week/weekend, etc.)
+- Aim is to develop an automated algorithm for the optimal operation of a battery.
+- Optimal operation means maximisation of profits over a 12-month period.
+- Trading will comprise energy-only trading (i.e., the difference between energy prices incurred when charging versus prices earned when discharging).
+- Algo does not need to be generalised. It can switch between different regimes (e.e., peak/off-peak, night/day, week/weekend, etc.)
 
 Prize to best algo:
-We offer a cash prize of $500 and an internship with our trading and quantitative development team.
+- We offer a cash prize of $500 and an internship with our trading and quantitative development team.
 
 Battery specifications as follows:
-Size: 5.00 MW
-Power: 4 hour
-Max ramp rate: 0.417 MW/5 minutes (discharge and recharge)
-Maximum DOD: 1.00
-Minimum DOD: 0.00
-Maximum cycles per day: 1.75 cycles (1 cycle equals 4 hours of discharge and 4 hours of discharge)
-Cycles: Can switch every five minutes to charge, discharge, idle.
-Prices: NEM wholesale prices charged when charging from the NEM, and NEM prices are earned when discharging to the NEM.
+- Size: 5.00 MW
+- Power: 4 hour
+- Max ramp rate: 0.417 MW/5 minutes (discharge and recharge)
+- Maximum DOD: 1.00
+- Minimum DOD: 0.00
+- Maximum cycles per day: 1.75 cycles (1 cycle equals 4 hours of discharge and 4 hours of discharge)
+- Cycles: Can switch every five minutes to charge, discharge, idle.
+- Prices: NEM wholesale prices charged when charging from the NEM, and NEM prices are earned when discharging to the NEM.
 
 Data Files - the following data files are provided:
  - NSW price data 2022. This is the settled wholesale NEM price data for all assets supplying power to, or drawing power from NSW.
