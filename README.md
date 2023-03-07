@@ -26,9 +26,12 @@ Data Files - the following data files are provided:
  - Actual operational demand 2022. This value is only known after the demand has occurred and settled prices are published. May be good for explanatory measures but not useful for forecasting.
 
 For out of sample testing the following files are also available for the first couple of months of 2023.
- - NSW price data 2023.
+ - NSW pre-dispatch price data 2023.
  - Pre-dispatch prices 2023.
  - Forecast operational demand 2023.
- - Actual operational demand 2023.
+
+Testing will occur using 2023 data (first several months) when algos are ready.
+
+You may submit as many algorithms as you want. We will test each one and provide you with a comprehensive review of the results.
 
 Any questions please email me at jason.west@cet.fund
