@@ -4,6 +4,7 @@ CETF is a hedge fund trading in clean energy (cet.fund).
 - Optimal operation means maximisation of profits over a 12-month period.
 - Trading will comprise energy-only trading (i.e., the difference between energy prices incurred when charging versus prices earned when discharging).
 - Algo does not need to be generalised. It can switch between different regimes (e.e., peak/off-peak, night/day, week/weekend, etc.)
+- Preference for code to be available using R or Python code, but others are ok, just so long as we can run it regularly within an AWS environement.
 
 Prize to best algo:
 - We offer a cash prize of $500 and an internship with our trading and quantitative development team.
