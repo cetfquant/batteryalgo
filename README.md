@@ -34,4 +34,6 @@ Testing will occur using 2023 data (first several months) when algos are ready.
 
 You may submit as many algorithms as you want. We will test each one and provide you with a comprehensive review of the results.
 
+A basic battery model coded using R has been provided as an example.
+
 Any questions please email me at jason.west@cet.fund
